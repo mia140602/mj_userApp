@@ -1,0 +1,79 @@
+com.u6amtech.flutter_sixvalley_ecom.app-jetified-activity-1.7.2-0 C:\Users\Admin\.gradle\caches\transforms-3\06b13e68870d84298ce62bc1ede27000\transformed\jetified-activity-1.7.2\res
+com.u6amtech.flutter_sixvalley_ecom.app-jetified-emoji2-views-helper-1.2.0-1 C:\Users\Admin\.gradle\caches\transforms-3\06c4a27e1cdab5dda1470a3c121270b1\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.u6amtech.flutter_sixvalley_ecom.app-jetified-lifecycle-service-2.6.1-2 C:\Users\Admin\.gradle\caches\transforms-3\0969c3aa52ff1b2e6086849199cdfd6e\transformed\jetified-lifecycle-service-2.6.1\res
+com.u6amtech.flutter_sixvalley_ecom.app-jetified-savedstate-1.2.1-3 C:\Users\Admin\.gradle\caches\transforms-3\09740dd7de7cff96dcfdec4cd262aad6\transformed\jetified-savedstate-1.2.1\res
+com.u6amtech.flutter_sixvalley_ecom.app-webkit-1.5.0-4 C:\Users\Admin\.gradle\caches\transforms-3\12745382300ad7081834a9f92aad6c28\transformed\webkit-1.5.0\res
+com.u6amtech.flutter_sixvalley_ecom.app-lifecycle-livedata-2.6.1-5 C:\Users\Admin\.gradle\caches\transforms-3\2547bc2b98f3ed575f00355953ecb556\transformed\lifecycle-livedata-2.6.1\res
+com.u6amtech.flutter_sixvalley_ecom.app-lifecycle-runtime-2.6.1-6 C:\Users\Admin\.gradle\caches\transforms-3\2e1ce909e9dc0f10ec59d94b27585cbb\transformed\lifecycle-runtime-2.6.1\res
+com.u6amtech.flutter_sixvalley_ecom.app-jetified-startup-runtime-1.1.1-7 C:\Users\Admin\.gradle\caches\transforms-3\4082b782a730d44a570b89d96be3c5d7\transformed\jetified-startup-runtime-1.1.1\res
+com.u6amtech.flutter_sixvalley_ecom.app-jetified-firebase-messaging-23.3.1-8 C:\Users\Admin\.gradle\caches\transforms-3\48d5627afc44d3145daccec5fb1424cb\transformed\jetified-firebase-messaging-23.3.1\res
+com.u6amtech.flutter_sixvalley_ecom.app-swiperefreshlayout-1.1.0-9 C:\Users\Admin\.gradle\caches\transforms-3\5fb97a3af4941e2efa0a1c5d34cc3671\transformed\swiperefreshlayout-1.1.0\res
+com.u6amtech.flutter_sixvalley_ecom.app-jetified-facebook-common-14.1.1-10 C:\Users\Admin\.gradle\caches\transforms-3\64c2a38587263898c8bc4d0e2c876937\transformed\jetified-facebook-common-14.1.1\res
+com.u6amtech.flutter_sixvalley_ecom.app-jetified-appcompat-resources-1.5.1-11 C:\Users\Admin\.gradle\caches\transforms-3\670b68011571544f1cca445c09ff0fdf\transformed\jetified-appcompat-resources-1.5.1\res
+com.u6amtech.flutter_sixvalley_ecom.app-lifecycle-livedata-core-2.6.1-12 C:\Users\Admin\.gradle\caches\transforms-3\6dce76190769929a4c7fb1cb75f21dbc\transformed\lifecycle-livedata-core-2.6.1\res
+com.u6amtech.flutter_sixvalley_ecom.app-appcompat-1.5.1-13 C:\Users\Admin\.gradle\caches\transforms-3\6f8bbe6b17f76923c755761f983262ba\transformed\appcompat-1.5.1\res
+com.u6amtech.flutter_sixvalley_ecom.app-jetified-emoji2-1.2.0-14 C:\Users\Admin\.gradle\caches\transforms-3\7394a9737f962bc8cab8912f49860ad8\transformed\jetified-emoji2-1.2.0\res
+com.u6amtech.flutter_sixvalley_ecom.app-jetified-firebase-common-20.4.2-15 C:\Users\Admin\.gradle\caches\transforms-3\7687b2c7199b9ece9a49d5cee6472722\transformed\jetified-firebase-common-20.4.2\res
+com.u6amtech.flutter_sixvalley_ecom.app-lifecycle-viewmodel-2.6.1-16 C:\Users\Admin\.gradle\caches\transforms-3\786cf65c51f430f717162b4b29426a87\transformed\lifecycle-viewmodel-2.6.1\res
+com.u6amtech.flutter_sixvalley_ecom.app-jetified-facebook-login-14.1.1-17 C:\Users\Admin\.gradle\caches\transforms-3\7988ea9e6808fbfa5bdbaac86e3c52a5\transformed\jetified-facebook-login-14.1.1\res
+com.u6amtech.flutter_sixvalley_ecom.app-jetified-media2-common-1.2.1-18 C:\Users\Admin\.gradle\caches\transforms-3\7b1fe89743881341aebfbdb4bfbab516\transformed\jetified-media2-common-1.2.1\res
+com.u6amtech.flutter_sixvalley_ecom.app-media-1.4.1-19 C:\Users\Admin\.gradle\caches\transforms-3\8ea4daee7c63777f9d4346a7c519e59c\transformed\media-1.4.1\res
+com.u6amtech.flutter_sixvalley_ecom.app-jetified-core-ktx-1.10.1-20 C:\Users\Admin\.gradle\caches\transforms-3\909967f68600a35ba17687df312ea6f8\transformed\jetified-core-ktx-1.10.1\res
+com.u6amtech.flutter_sixvalley_ecom.app-jetified-profileinstaller-1.3.0-21 C:\Users\Admin\.gradle\caches\transforms-3\91dd8870aabef24b89b7f695cb81e20f\transformed\jetified-profileinstaller-1.3.0\res
+com.u6amtech.flutter_sixvalley_ecom.app-jetified-play-services-base-18.0.1-22 C:\Users\Admin\.gradle\caches\transforms-3\a3a8ebbcb86527f58c0d66f8ad51e4ea\transformed\jetified-play-services-base-18.0.1\res
+com.u6amtech.flutter_sixvalley_ecom.app-core-runtime-2.2.0-23 C:\Users\Admin\.gradle\caches\transforms-3\b9d52d854ee5f855638bd6472fc2d665\transformed\core-runtime-2.2.0\res
+com.u6amtech.flutter_sixvalley_ecom.app-jetified-lifecycle-viewmodel-savedstate-2.6.1-24 C:\Users\Admin\.gradle\caches\transforms-3\bce1f546b7e6409f20b29fec05b9453f\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\res
+com.u6amtech.flutter_sixvalley_ecom.app-jetified-lifecycle-process-2.6.1-25 C:\Users\Admin\.gradle\caches\transforms-3\c009abfcaecaa4a04ad0497ebd5060d5\transformed\jetified-lifecycle-process-2.6.1\res
+com.u6amtech.flutter_sixvalley_ecom.app-browser-1.5.0-26 C:\Users\Admin\.gradle\caches\transforms-3\c0bc7fb760414ca6afa34e157f2b390f\transformed\browser-1.5.0\res
+com.u6amtech.flutter_sixvalley_ecom.app-jetified-annotation-experimental-1.3.0-27 C:\Users\Admin\.gradle\caches\transforms-3\c4154bd8c9952ba477531a0fa3a63d17\transformed\jetified-annotation-experimental-1.3.0\res
+com.u6amtech.flutter_sixvalley_ecom.app-core-1.10.1-28 C:\Users\Admin\.gradle\caches\transforms-3\c9e4ae544c062570e3d9db1e2dfd49ac\transformed\core-1.10.1\res
+com.u6amtech.flutter_sixvalley_ecom.app-jetified-play-services-maps-18.2.0-29 C:\Users\Admin\.gradle\caches\transforms-3\cec3183829db15fc8dea011d14a6098d\transformed\jetified-play-services-maps-18.2.0\res
+com.u6amtech.flutter_sixvalley_ecom.app-jetified-play-services-auth-20.7.0-30 C:\Users\Admin\.gradle\caches\transforms-3\d47281c3dfdf05f98a8ca6f05fb0a76c\transformed\jetified-play-services-auth-20.7.0\res
+com.u6amtech.flutter_sixvalley_ecom.app-coordinatorlayout-1.0.0-31 C:\Users\Admin\.gradle\caches\transforms-3\d732d91ea3dfe76aac61d0303befdcf1\transformed\coordinatorlayout-1.0.0\res
+com.u6amtech.flutter_sixvalley_ecom.app-jetified-window-1.0.0-beta04-32 C:\Users\Admin\.gradle\caches\transforms-3\d96360f888fbbbaeabe32353c8aed3e2\transformed\jetified-window-1.0.0-beta04\res
+com.u6amtech.flutter_sixvalley_ecom.app-fragment-1.3.6-33 C:\Users\Admin\.gradle\caches\transforms-3\df538c823abc1ead811fc1a5623b3a88\transformed\fragment-1.3.6\res
+com.u6amtech.flutter_sixvalley_ecom.app-localbroadcastmanager-1.1.0-34 C:\Users\Admin\.gradle\caches\transforms-3\e0b082a386893fc1ac44b9319ef07c1b\transformed\localbroadcastmanager-1.1.0\res
+com.u6amtech.flutter_sixvalley_ecom.app-jetified-window-java-1.0.0-beta04-35 C:\Users\Admin\.gradle\caches\transforms-3\e26ef13609de7932c079b800e87ba48b\transformed\jetified-window-java-1.0.0-beta04\res
+com.u6amtech.flutter_sixvalley_ecom.app-work-runtime-2.7.1-36 C:\Users\Admin\.gradle\caches\transforms-3\e3daacacf9b799d8dc96dd0087c6d418\transformed\work-runtime-2.7.1\res
+com.u6amtech.flutter_sixvalley_ecom.app-jetified-play-services-basement-18.2.0-37 C:\Users\Admin\.gradle\caches\transforms-3\f79f84f2c2b1754cbfeb50a409eba7c0\transformed\jetified-play-services-basement-18.2.0\res
+com.u6amtech.flutter_sixvalley_ecom.app-jetified-media2-session-1.2.1-38 C:\Users\Admin\.gradle\caches\transforms-3\f859f1566268a9f8eaf472be0828bf5a\transformed\jetified-media2-session-1.2.1\res
+com.u6amtech.flutter_sixvalley_ecom.app-cardview-1.0.0-39 C:\Users\Admin\.gradle\caches\transforms-3\f968ab7223085ba5fbd7fcdc68c7f216\transformed\cardview-1.0.0\res
+com.u6amtech.flutter_sixvalley_ecom.app-jetified-exoplayer-core-2.18.7-40 C:\Users\Admin\.gradle\caches\transforms-3\fa31d00284f4365efb42b37720a37f5a\transformed\jetified-exoplayer-core-2.18.7\res
+com.u6amtech.flutter_sixvalley_ecom.app-debug-41 F:\MJ Group\User app\User app\android\app\src\debug\res
+com.u6amtech.flutter_sixvalley_ecom.app-main-42 F:\MJ Group\User app\User app\android\app\src\main\res
+com.u6amtech.flutter_sixvalley_ecom.app-google-services-43 F:\MJ Group\User app\User app\build\app\generated\res\google-services\debug
+com.u6amtech.flutter_sixvalley_ecom.app-pngs-44 F:\MJ Group\User app\User app\build\app\generated\res\pngs\debug
+com.u6amtech.flutter_sixvalley_ecom.app-resValues-45 F:\MJ Group\User app\User app\build\app\generated\res\resValues\debug
+com.u6amtech.flutter_sixvalley_ecom.app-rs-46 F:\MJ Group\User app\User app\build\app\generated\res\rs\debug
+com.u6amtech.flutter_sixvalley_ecom.app-mergeDebugResources-47 F:\MJ Group\User app\User app\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.u6amtech.flutter_sixvalley_ecom.app-mergeDebugResources-48 F:\MJ Group\User app\User app\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.u6amtech.flutter_sixvalley_ecom.app-merged_res-49 F:\MJ Group\User app\User app\build\app\intermediates\merged_res\debug
+com.u6amtech.flutter_sixvalley_ecom.app-packaged_res-50 F:\MJ Group\User app\User app\build\audio_session\intermediates\packaged_res\debug
+com.u6amtech.flutter_sixvalley_ecom.app-packaged_res-51 F:\MJ Group\User app\User app\build\connectivity\intermediates\packaged_res\debug
+com.u6amtech.flutter_sixvalley_ecom.app-packaged_res-52 F:\MJ Group\User app\User app\build\firebase_core\intermediates\packaged_res\debug
+com.u6amtech.flutter_sixvalley_ecom.app-packaged_res-53 F:\MJ Group\User app\User app\build\firebase_messaging\intermediates\packaged_res\debug
+com.u6amtech.flutter_sixvalley_ecom.app-packaged_res-54 F:\MJ Group\User app\User app\build\flutter_downloader\intermediates\packaged_res\debug
+com.u6amtech.flutter_sixvalley_ecom.app-packaged_res-55 F:\MJ Group\User app\User app\build\flutter_facebook_auth\intermediates\packaged_res\debug
+com.u6amtech.flutter_sixvalley_ecom.app-packaged_res-56 F:\MJ Group\User app\User app\build\flutter_inappwebview\intermediates\packaged_res\debug
+com.u6amtech.flutter_sixvalley_ecom.app-packaged_res-57 F:\MJ Group\User app\User app\build\flutter_keyboard_visibility\intermediates\packaged_res\debug
+com.u6amtech.flutter_sixvalley_ecom.app-packaged_res-58 F:\MJ Group\User app\User app\build\flutter_local_notifications\intermediates\packaged_res\debug
+com.u6amtech.flutter_sixvalley_ecom.app-packaged_res-59 F:\MJ Group\User app\User app\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\debug
+com.u6amtech.flutter_sixvalley_ecom.app-packaged_res-60 F:\MJ Group\User app\User app\build\fluttertoast\intermediates\packaged_res\debug
+com.u6amtech.flutter_sixvalley_ecom.app-packaged_res-61 F:\MJ Group\User app\User app\build\geocoding_android\intermediates\packaged_res\debug
+com.u6amtech.flutter_sixvalley_ecom.app-packaged_res-62 F:\MJ Group\User app\User app\build\geolocator_android\intermediates\packaged_res\debug
+com.u6amtech.flutter_sixvalley_ecom.app-packaged_res-63 F:\MJ Group\User app\User app\build\google_api_headers\intermediates\packaged_res\debug
+com.u6amtech.flutter_sixvalley_ecom.app-packaged_res-64 F:\MJ Group\User app\User app\build\google_maps_flutter_android\intermediates\packaged_res\debug
+com.u6amtech.flutter_sixvalley_ecom.app-packaged_res-65 F:\MJ Group\User app\User app\build\google_sign_in_android\intermediates\packaged_res\debug
+com.u6amtech.flutter_sixvalley_ecom.app-packaged_res-66 F:\MJ Group\User app\User app\build\image_picker_android\intermediates\packaged_res\debug
+com.u6amtech.flutter_sixvalley_ecom.app-packaged_res-67 F:\MJ Group\User app\User app\build\just_audio\intermediates\packaged_res\debug
+com.u6amtech.flutter_sixvalley_ecom.app-packaged_res-68 F:\MJ Group\User app\User app\build\package_info_plus\intermediates\packaged_res\debug
+com.u6amtech.flutter_sixvalley_ecom.app-packaged_res-69 F:\MJ Group\User app\User app\build\path_provider_android\intermediates\packaged_res\debug
+com.u6amtech.flutter_sixvalley_ecom.app-packaged_res-70 F:\MJ Group\User app\User app\build\permission_handler_android\intermediates\packaged_res\debug
+com.u6amtech.flutter_sixvalley_ecom.app-packaged_res-71 F:\MJ Group\User app\User app\build\phone_number\intermediates\packaged_res\debug
+com.u6amtech.flutter_sixvalley_ecom.app-packaged_res-72 F:\MJ Group\User app\User app\build\share\intermediates\packaged_res\debug
+com.u6amtech.flutter_sixvalley_ecom.app-packaged_res-73 F:\MJ Group\User app\User app\build\shared_preferences_android\intermediates\packaged_res\debug
+com.u6amtech.flutter_sixvalley_ecom.app-packaged_res-74 F:\MJ Group\User app\User app\build\sqflite\intermediates\packaged_res\debug
+com.u6amtech.flutter_sixvalley_ecom.app-packaged_res-75 F:\MJ Group\User app\User app\build\url_launcher_android\intermediates\packaged_res\debug
+com.u6amtech.flutter_sixvalley_ecom.app-packaged_res-76 F:\MJ Group\User app\User app\build\video_player_android\intermediates\packaged_res\debug
+com.u6amtech.flutter_sixvalley_ecom.app-packaged_res-77 F:\MJ Group\User app\User app\build\wakelock_plus\intermediates\packaged_res\debug
+com.u6amtech.flutter_sixvalley_ecom.app-packaged_res-78 F:\MJ Group\User app\User app\build\webview_flutter_android\intermediates\packaged_res\debug

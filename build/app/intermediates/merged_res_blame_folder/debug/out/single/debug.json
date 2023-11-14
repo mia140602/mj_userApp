@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.u6amtech.flutter_sixvalley_ecom.app-merged_res-49:/drawable_notification_icon.png.flat",
+        "source": "com.u6amtech.flutter_sixvalley_ecom.app-main-42:/drawable/notification_icon.png"
+    },
+    {
+        "merged": "com.u6amtech.flutter_sixvalley_ecom.app-merged_res-49:/raw_notification.mp3.flat",
+        "source": "com.u6amtech.flutter_sixvalley_ecom.app-main-42:/raw/notification.mp3"
+    },
+    {
+        "merged": "com.u6amtech.flutter_sixvalley_ecom.app-merged_res-49:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.u6amtech.flutter_sixvalley_ecom.app-main-42:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.u6amtech.flutter_sixvalley_ecom.app-merged_res-49:/xml_network_security_config.xml.flat",
+        "source": "com.u6amtech.flutter_sixvalley_ecom.app-main-42:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.u6amtech.flutter_sixvalley_ecom.app-merged_res-49:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.u6amtech.flutter_sixvalley_ecom.app-main-42:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.u6amtech.flutter_sixvalley_ecom.app-merged_res-49:/drawable_launch_background.xml.flat",
+        "source": "com.u6amtech.flutter_sixvalley_ecom.app-main-42:/drawable/launch_background.xml"
+    },
+    {
+        "merged": "com.u6amtech.flutter_sixvalley_ecom.app-merged_res-49:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.u6amtech.flutter_sixvalley_ecom.app-main-42:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.u6amtech.flutter_sixvalley_ecom.app-merged_res-49:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.u6amtech.flutter_sixvalley_ecom.app-main-42:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.u6amtech.flutter_sixvalley_ecom.app-merged_res-49:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.u6amtech.flutter_sixvalley_ecom.app-main-42:/mipmap-hdpi/ic_launcher.png"
+    }
+]
